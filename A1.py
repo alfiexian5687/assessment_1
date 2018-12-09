@@ -3,7 +3,7 @@ Student Name: Sai Aung Sein Lin
 Student ID: 13576310
 Date: 09/12/2018
 This is the program to learn the song whether they are learned or not.
-Github:
+Github: https://github.com/alfiexian5687/assessment_1/blob/master/A1.py
 """
 
 from operator import itemgetter  # import the itemgetter function from the operator
