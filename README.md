@@ -10,4 +10,4 @@ Note: If you use the free WakaTime service on your own machine, you can track ex
 
 
 2. What do you plan to do  differently in your development process for assignment 2?
-> In the assignment 2, I will work and learn more about the program and tools. Moreover, I will sharpening my programming skills for the assignment2. 
+> In the assignment 2, I will work and learn more about the program and tools. Moreover, I will be sharpening my programming skills for the assignment2. 
